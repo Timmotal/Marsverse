@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import { socials } from '../constants';
 
 import styles from '../styles';
@@ -20,8 +21,8 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           Enter The Marsverse
         </h4>
-        <button type='submit' className="flex items-center h-fit py-4 px-6 bg-[#32568B] rounded-[32px] gap-[12px]">
-          <img
+        <button type="submit" className="flex items-center h-fit py-4 px-6 bg-[#32568B] rounded-[32px] gap-[12px]">
+          <Image
             src="/headset.svg"
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
@@ -45,7 +46,7 @@ const Footer = () => (
           </p>
           <div className="flex gap-4">
             {socials.map((social) => (
-              <img
+              <Image
                 src={social.url}
                 key={social.name}
                 alt={social.name}
