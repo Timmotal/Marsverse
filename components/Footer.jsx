@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { motion } from 'framer-motion';
 import { socials } from '../constants';
@@ -20,7 +20,7 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           Enter The Marsverse
         </h4>
-        <button className="flex items-center h-fit py-4 px-6 bg-[#32568B] rounded-[32px] gap-[12px]">
+        <button type='submit' className="flex items-center h-fit py-4 px-6 bg-[#32568B] rounded-[32px] gap-[12px]">
           <img
             src="/headset.svg"
             alt="headset"
