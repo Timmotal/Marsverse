@@ -25,7 +25,7 @@ const Feedback = () => (
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          Today's technology offer an inter planetary portal into Mars, like you are going down your block to get some groceries 
+          Today's technology offer an inter planetary portal into Mars, like you are going down the block to get some groceries 
         </p>
 
       </motion.div>
