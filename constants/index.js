@@ -58,7 +58,7 @@ export const insights = [
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Marsverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'we do the impossible together here, we are bending matter',
   }, 
   {
     imgUrl: '/planet-08.png',
