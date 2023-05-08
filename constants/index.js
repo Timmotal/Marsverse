@@ -52,7 +52,7 @@ export const insights = [
     imgUrl: '/planet-06.png',
     title: 'The launch of the Metaverse makes Elon musk the Sultan of the ZANGER',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'On mars, worlds will be reborn and remade, the is the adventure of the cosmos',
   },
   {
     imgUrl: '/planet-07.png',
